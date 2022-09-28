@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_https_tasks=self.webpackChunkreact_https_tasks||[]).push([[922],{922:function(t,s,e){e.r(s);var c=e(184);s.default=function(){return(0,c.jsx)("div",{className:"centerd",children:(0,c.jsx)("h1",{children:"Not Found !"})})}}}]);
+//# sourceMappingURL=922.5ba4ea6c.chunk.js.map
